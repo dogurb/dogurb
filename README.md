@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dogurb
-- 👀 I’m interested in machine leaning and data science.
-- 🌱 I’m currently learning machine learning.
+- 👀 I’m interested in machine learning and data science.
+
 
 
 <!---
